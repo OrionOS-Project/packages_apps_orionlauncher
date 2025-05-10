@@ -18,7 +18,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:launcher="http://schemas.android.com/apk/res-auto"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.launcher3"
-    android:title="@string/pulse_settings">
+    android:title="@string/orion_launcher">
 
     <PreferenceCategory
         android:title="@string/general_settings_title">
